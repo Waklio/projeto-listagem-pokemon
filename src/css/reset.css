@@ -1,0 +1,16 @@
+ * {
+     /*o asterico vai estilizar todas a tags do html*/
+     margin: 0;
+     /*margin tira qualquqer margin por padrão, da espaçamento externo */
+     padding: 0;
+     /*padding espaçamento  interno */
+     box-sizing: border-box;
+     /*facilitar trabalhar com larguras e alturas*/
+
+ }
+
+ ul {
+     list-style: none;
+     /*estilo da lista-nenhum*/
+
+ }
