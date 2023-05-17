@@ -37,6 +37,11 @@ header #botao-alterar-tema {
     
 }
 
+header #pokemon {
+    background: none;
+    border: none;
+}
+
 header .Logo:hover,
 header .imagem-botao:hover,
 main .cartao-pokemon:hover {
